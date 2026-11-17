@@ -19,7 +19,7 @@ source=(
     "https://dbschema.com/img/favicon/favicon.svg"
 )
 # verify here: https://dbschema.com/download/md5sums
-md5sums=('ce16233a930e5a996dd530e7d30dc87b'
+md5sums=('667e1954ba49ac6ab06942dd8739c2a0'
          'fd70b65c057119c0290bf9f4b51be830'
          'f52f8d76f63ae513fda70b4ef53ebbc5')
 
