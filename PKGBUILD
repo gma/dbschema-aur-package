@@ -21,7 +21,7 @@ source=(
 # verify here: https://dbschema.com/download/md5sums
 md5sums=('667e1954ba49ac6ab06942dd8739c2a0'
          'fd70b65c057119c0290bf9f4b51be830'
-         'f52f8d76f63ae513fda70b4ef53ebbc5')
+         'd969120667f2e5050f98be6d8b37a042')
 
 package() {
     install -dm755 "${pkgdir}/opt"
